@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    height:100vh;
+    font-size:1.5rem;
+    line-height:1.5;
+    background-image:url(./../IMAGES/background.jpg);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', ;
+}
+h3{
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    size:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
